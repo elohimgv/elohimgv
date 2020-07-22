@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am Elohim! 😀
+- ✨ I´m interested in creative programming, decentralized internet and machine learning (in progress to learn...). And I feel good when explore how my conscious and incosncious mind act 🔥 to beat things that I feel bad. I like to learn new things, but the most important thing to me is to transform my interior. I don´t tag mysefl in a professional profile... just I define me how _integrator of experiences_. 
+- 📫 How to reach me: elohim.guevara@gmail.com
+
 
 <!--
 **elohimgv/elohimgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
