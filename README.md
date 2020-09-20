@@ -1,7 +1,7 @@
 ### Hi, I am Elohim! 😀
-- ✨ Right now I'm interested in creative programming and how to automate stuff. For creative programming I have been learning Chuck that is a [programming language for real-time sound synthesis and music creation](https://chuck.cs.princeton.edu) and Processing is a [flexible software sketchbook and a language for learning how to code within the context of the visual arts](https://processing.org). Finally, to automate boring stuff I use Python (one of the most used languages in the world). When I began to learn Python, my mindset (in the context of tech) growed up beacuse I began to interact with the operating system and that's was wonderful to me. It opened the world of be better on CLI. I needed to automate repetitive things that occurring when I was programing in Processing, but no just in it, also in automate my work process and save time. 
+- ✨ Right now I'm interested in creative programming and how to automate stuff. For creative programming I have been learning Chuck that is a [programming  language for real-time sound synthesis and music creation](https://chuck.cs.princeton.edu) and Processing is a [flexible software sketchbook and a      language for learning how to code within the context of the visual arts](https://processing.org). Finally, to automate boring stuff I use Python (one of the most used languages in the world). When I began to learn Python, my mindset (in the context of tech) growed up beacuse I began to interact with the operating system and that's was wonderful to me. It opened the world of be better on CLI. I needed to automate repetitive things that occurring when I was programing in Processing, but no just in it, also in automate my work process and save time. 
 
-For the long term I have interest in decentralzced internet and machine learning. 
+  For the long term I have interest in decentralzced internet and machine learning. 
 
 - 🌱 My stack to learning and practice:
   * Now books:
