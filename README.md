@@ -10,7 +10,7 @@
     * Programming for Musicians and Digital Artists
     * Processing a Programming Handbook for Visual Designers and Artists
   * To improve my programming skills I am going to rethink and retype my code from courses that I been taken:
-    * [Programming for the visual arts](https://github.com/elohimgv/programming-for-visual-arts-processing-version)
+    * [~~Programming for the visual arts~~](https://github.com/elohimgv/programming-for-visual-arts-processing-version)
     * [Introduction to Real Time Audio Programming in Chuck](https://github.com/elohimgv/audio-programming-in-chuck)
   * Personal projects that must be refactored: 
     * [Proyecto uker](https://github.com/elohimgv/proyecto_uker)
