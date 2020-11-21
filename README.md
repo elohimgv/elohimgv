@@ -6,6 +6,7 @@
 - 🌱 My stack to learning and practice:
   * Now books:
     * Automte The Boring Stuff with Python
+    * Learn Python the Hard Way 
     * Learnig Processing a Begginer's Guide to Programming Images
     * Programming for Musicians and Digital Artists
     * Processing a Programming Handbook for Visual Designers and Artists
@@ -20,7 +21,7 @@
     * Introduction to Computing 
     * The Nature of Code
     * [The Book of Shaders](https://thebookofshaders.com)
-    * [Programming Design Systems](https://programmingdesignsystems.com/introduction/)
+    * [~~Programming Design Systems~~](https://programmingdesignsystems.com/introduction/)
   * Maybe, future courses to be taken:  
     * [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system)
     * [Software Testing](https://www.udacity.com/course/software-testing--cs258)
