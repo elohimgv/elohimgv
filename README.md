@@ -2,7 +2,7 @@
 ✨ I'm interested in creative programming. I began my journey learned Chuck that is a [programming  language for real-time sound synthesis and music creation](https://chuck.cs.princeton.edu) and Processing, it is a [flexible software sketchbook and a      language for learning how to code within the context of the visual arts](https://processing.org) and a little bit of [p5.js](https://p5js.org/) the version of Processing for the web.
 
 - 🌱 My stack to become a creative programmer:
-  * [exercism](exercism.org)
+  * [exercism](https://exercism.org/)
   * [Automte The Boring Stuff with Python](https://automatetheboringstuff.com/)
   * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
   * [Learnig Processing a Begginer's Guide to Programming Images](http://learningprocessing.com/)
