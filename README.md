@@ -1,11 +1,7 @@
 ### Hi, I am Elohim! 😀
-✨ I'm interested in creative programming. I began my journey learned [Chuck](https://chuck.cs.princeton.edu) that is a programming  language for real-time sound synthesis and music creation and [Processing](https://processing.org), it is a flexible software sketchbook and a      language for learning how to code within the context of the visual arts and a little bit of [p5.js](https://p5js.org/) the version of Processing for the web.
+✨ I'm interested in web development and creative code. I began my journey learned [Chuck](https://chuck.cs.princeton.edu) that is a programming  language for real-time sound synthesis and music creation and [Processing](https://processing.org), it is a flexible software sketchbook and a language for learning how to code within the context of the visual arts and a little bit of [p5.js](https://p5js.org/) the version of Processing for the web.
 
-I found that it's important to know how to automate some process on my workflow. That's the reason why I decided to studied Python; it's a scripting language and a good option for these tasks. 
-
-For the long term I have interest in decentralized internet and machine learning. 
-
-- 📫 How to reach me: elohim.guevara@gmail.com
+For the long term I have interest in data science. 
 
 <!--
 **elohimgv/elohimgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
