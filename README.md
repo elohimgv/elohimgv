@@ -1,5 +1,6 @@
 ### Hi, I am Elohim! 😀
-✨ I'm interested in web development and creative code. I began my journey learned [Chuck](https://chuck.cs.princeton.edu) that is a programming  language for real-time sound synthesis and music creation and [Processing](https://processing.org), it is a flexible software sketchbook and a language for learning how to code within the context of the visual arts and a little bit of [p5.js](https://p5js.org/) the version of Processing for the web.
+✨ I'm aspiring to be a frontend developer. I study at [Platzi](https://platzi.com) platform. I began my journey to the tech world studied with teacher like [Dan Shiffman](https://thecodingtrain.com/) and [David J. Malan](https://en.wikipedia.org/wiki/David_J._Malan). To be a good developer I found that  I needed to reframe my mind that's where [Barbara Oakley](https://barbaraoakley.com/) appear with her courses [Learn how to learn](https://www.coursera.org/learn/learning-how-to-learn?=) and [Mindshift](https://www.coursera.org/learn/mindshift?=). To me is important... how say, the futurist [David Houle](https://blog.kannu.com/digital-learning/david-houle-change-the-only-constant/) 
+> The illiterate of the 21st century will not be those that cannot read or write, but those that cannot learn, unlearn and relearn
 
 For the long term I have interest in data science. 
 
