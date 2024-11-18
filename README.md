@@ -1,8 +1,8 @@
 ### Hi, I am Elohim! 😀
-✨ I'm aspiring to be a frontend developer. I study at [Platzi](https://platzi.com) platform. I began my journey to the tech world studied with teacher like [Dan Shiffman](https://thecodingtrain.com/) and [David J. Malan](https://en.wikipedia.org/wiki/David_J._Malan). To be a good developer I found that  I needed to reframe my mind that's where [Barbara Oakley](https://barbaraoakley.com/) appear with her courses [Learn how to learn](https://www.coursera.org/learn/learning-how-to-learn?=) and [Mindshift](https://www.coursera.org/learn/mindshift?=). To me is important... how say, the futurist [David Houle](https://blog.kannu.com/digital-learning/david-houle-change-the-only-constant/) 
-> The illiterate of the 21st century will not be those that cannot read or write, but those that cannot learn, unlearn and relearn
+✨ I'm aspiring to be a full-stack developer. I am studying on the [Platzi](https://platzi.com) platform. I began my journey to the tech world by studying with teachers like [Dan Shiffman](https://thecodingtrain.com/) and [David J. Malan](https://en.wikipedia.org/wiki/David_J._Malan). To be a good developer I found that  I needed to reframe my mind that's where [Barbara Oakley](https://barbaraoakley.com/) appears with her courses [Learn how to learn](https://www.coursera.org/learn/learning-how-to-learn?=) and [Mindshift](https://www.coursera.org/learn/mindshift?=). To me is important... how say, the futurist [David Houle](https://blog.kannu.com/digital-learning/david-houle-change-the-only-constant/) 
+> The illiterate of the 21st century will not be those who cannot read or write, but those who cannot learn, unlearn, and relearn
 
-For the long term I have interest in data science. 
+For the long term, I have an interest in data science. 
 
 <!--
 **elohimgv/elohimgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
